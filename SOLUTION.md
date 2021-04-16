@@ -2,7 +2,11 @@
 # I.
   Evidencia de paso de purebas del código.
   ![POOB-TEST-FIRST-SABANA-RESEARCH – ProjectTest java  POOB-TEST-FIRST-SABANA-RESEARCH test  4_16_2021 5_13_42 PM](https://user-images.githubusercontent.com/78450716/115094349-d21f5b80-9ee2-11eb-883e-b83ec826d323.png)
-  Métodos: getDuration(): Este método obtiene la duración (en días) de un projecto, iteracion o actividad, y revisa si cada uno es válido, en caso contrario, lanza una excepción.   
+  Métodos: getDuration(): Este método obtiene la duración (en días) de un projecto, iteracion o actividad, y revisa si cada uno es válido, en caso contrario, lanza una excepción.
+# II.
+  Evidencia Diseño
+  ![Diagrama clases medio editado](https://user-images.githubusercontent.com/78450716/115095123-aea9e000-9ee5-11eb-8dee-1896bf926f13.png)
+
 
 ## Conceptos:
 
